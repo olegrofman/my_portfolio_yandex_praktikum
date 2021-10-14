@@ -20,7 +20,7 @@
 
 **Ключевые слова проекта:** API, парсинг, BeautifulSoup, jointplot
 
-**Навыки и инструменты:** ```Python```, ```Pandas```, ```Seaborn```, ```Plotly```, визуализация данных
+**Навыки и инструменты:** ```Python```, ```Pandas```, ```Seaborn```, ```Plotly```, ```Shapely```, ```Folium```, ```Geopandas```, ```BeautifulSoup```, визуализация данных
 
 ![foodplaces_1](https://user-images.githubusercontent.com/85431311/137351178-4bb59fd5-2f91-4301-9e61-a2987483b5d8.jpg)
 ![foodplaces_2](https://user-images.githubusercontent.com/85431311/137351203-49ef3081-09dc-45cf-9247-a34aa02d4106.jpg)
