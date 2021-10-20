@@ -19,4 +19,4 @@
 
 **Ключевые слова проекта:** KMeans, Machine Learning, RandomForestClassifier, LogisticRegression, дендрограмма
 
-**Навыки и инструменты:**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация
+**Навыки и инструменты:**: ```Python```, ```Pandas```, ```Scikit-learn```, ```Matplotlib```, ```Seaborn```, машинное обучение, классификация, кластеризация
